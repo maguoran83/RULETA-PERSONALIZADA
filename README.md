@@ -1,2 +1,4 @@
-# RULETA-PERSONALIZADA
-Ruleta para poder poersonalizar con retos, numeros, generos, etc.
+# 
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Gustavo-Orezza-Gustavo/pen/KKjqGXM](https://codepen.io/Gustavo-Orezza-Gustavo/pen/KKjqGXM).
+
